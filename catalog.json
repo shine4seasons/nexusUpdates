@@ -1,0 +1,9 @@
+{
+  "release": {
+    "versionCode": 3,
+    "name": "1.2",
+    "file": "https://github.com/<user>/nexus-updates/releases/download/v1.2/app-debug.apk",
+    "sha256": "<64-ky-tu-sha256-chu-thuong>",
+    "notes": "Mô tả những điểm mới trong bản cập nhật."
+  }
+}
