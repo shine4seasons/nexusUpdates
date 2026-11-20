@@ -1,1 +1,32 @@
-﻿{"messages":{"rain":"Nhớ mang ô theo nhé!","general":"Chúc bạn một ngày tốt lành!"}}
+{
+  "messages": {
+    "rain": "Nhớ mang ô theo nhé!",
+    "general": "Chúc bạn một ngày tốt lành!"
+  },
+  "wallpapers": {
+    "sun-day": {
+      "file": "wallpapers/sun-day/wildflower-meadow.webp",
+      "sha256": "d791d4d39a72e092d82b6a99d1cbb7c4f7c497e816a626d4b5d63219703047d1"
+    },
+    "sun-night": {
+      "file": "wallpapers/sun-night/milky-way-over-lavender.webp",
+      "sha256": "352ea8e40a8f430057962c10431b3683c6ffb8205692cf6e36df66911cd94371"
+    },
+    "cloud-day": {
+      "file": "wallpapers/cloud-day/misty-mountain-valley.webp",
+      "sha256": "87d0f4557df26b60146e49cbe613e39e054b428e2c91b7ee74738e585cfeddf3"
+    },
+    "cloud-night": {
+      "file": "wallpapers/cloud-night/city-lights-under-clouds.webp",
+      "sha256": "5a7363427c2c4beb35edb01f915d15ba8344d60329568165fc000f86a805514e"
+    },
+    "wet-day": {
+      "file": "wallpapers/wet-day/rainy-cafe.webp",
+      "sha256": "848c94c6f68a77c61aacd3557d23d9c3b3a1c8f934a49fb470f211cac214062d"
+    },
+    "wet-night": {
+      "file": "wallpapers/wet-night/rainy-city-street.webp",
+      "sha256": "65de82fc98050ce0a642c1b85c6563499b999f49d180cab76d53bde1fb9deabd"
+    }
+  }
+}
