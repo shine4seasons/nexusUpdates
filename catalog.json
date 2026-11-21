@@ -30,10 +30,10 @@
     }
   },
   "release": {
-    "versionCode": 4,
-    "name": "1.3",
-    "file": "releases/NEXUS-1.3-debug.apk",
-    "sha256": "0e712b8f0d11600f29991c64d7f7e03e2c474ff04b2b549683304ed5fdee4b19",
-    "notes": "Tùy chỉnh giờ đổi hình nền ngày và đêm, widget linh hoạt hơn, hồ sơ học tập và URL LMS riêng, lời nhắc theo tình huống thời tiết."
+    "versionCode": 5,
+    "name": "1.4",
+    "file": "releases/NEXUS-1.4-debug.apk",
+    "sha256": "54d0294c94e5ab2cff0734cb20a627e38f6cd2ba752d963c96044447845f2318",
+    "notes": "Cải thiện lịch đổi hình nền ngày và đêm khi NEXUS chạy nền. Hỗ trợ quyền Báo thức và lời nhắc để đổi ảnh sát giờ đã đặt."
   }
 }
